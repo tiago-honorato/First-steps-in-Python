@@ -12,6 +12,7 @@ dupla_precisao = 3.141592653589
 caractere = 'A'
 texto = "Olá, mundo!"
 verdadeiro = True
+falso = False
 # Não há constante em python, mas por convenção são declaradas em UPPERCASE
 VALOR_PI = 3.14159
 
